@@ -1,0 +1,21 @@
+# Ignore dataset
+dataset/
+
+# Ignore Python cache
+_pycache_/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore model files
+*.h5
+*.keras
+*.pth
+
+# Ignore system files
+.DS_Store
+Thumbs.db
